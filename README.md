@@ -1,2 +1,2 @@
-# Libertycoinbsc
-Liberty Coin
+# Adonis Coin
+ADON
